@@ -1,0 +1,48 @@
+body {
+  background-color: #f1fff4;
+  font-size:20px;
+  margin:10px;
+  padding:10px;
+}
+
+header {
+  background-color: #d9ffe2;
+  border: 2px solid #2f7a3a;
+  text-align:center;
+  margin:10px;
+  padding:5px;
+}
+
+main {
+  background-color: #ffffff;
+  border: 2px solid #9ddaa9;
+  margin:10px;
+  padding:10px;
+}
+
+footer {
+  background-color: #d9ffe2;
+  border: 2px solid #2f7a3a;
+  text-align:center;
+  margin:10px;
+  padding:10px;
+}
+
+p {
+  border: 1px solid #9ddaa9;
+  margin:10px;
+  padding:10px;
+}
+
+img {
+  border: 3px solid #2f7a3a;
+  height: 300px;
+  margin:10px;
+}
+
+a{
+  color: #0b5a1a;
+  font-size: 18px;
+  margin:10px;
+  padding:10px;
+}
